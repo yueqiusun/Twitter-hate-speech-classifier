@@ -1,1 +1,1 @@
-DS-GA 1001 Project
+It is a project that aim to detect and classify hate speech and offensive speech on Twitter using bag of words model. The ipython notebook include the process of data cleaning, feature extraction and SVM model building. There is also a report included,
